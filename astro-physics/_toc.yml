@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: excercise/intro
+  sections:
+  - file: excercise/ex31
+  - file: excercise/ex32
+  - file: excercise/ex33
+  - file: excercise/ex34
+  - file: excercise/ex35
+  - file: excercise/ex36
+  - file: excercise/ex37
+  - file: excercise/ex38
+  - file: excercise/ex39
