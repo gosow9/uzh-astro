@@ -30,7 +30,7 @@ jobs:
       - name: Build Jupyter Book
         run: |
           jupyter-book config sphinx .  # Check for valid Jupyter Book configuration
-          jupyter-book build . --builder html --keep-going
+          jupyter-book build astro-physics --builder html --keep-going
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
