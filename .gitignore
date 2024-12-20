@@ -8,7 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-astro-physics/_build/
+astro-physics/_build/*
+._build/
 build/
 develop-eggs/
 dist/
